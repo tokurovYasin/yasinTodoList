@@ -1,0 +1,56 @@
+body {
+  background-color: rgba(222, 184, 135, 0.279);
+}
+
+input {
+  width: 70%;
+  margin: auto;
+  border-radius: 9px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border: solid teal 1px;
+  height: 30px;
+  padding: 5px;
+  font-size: 20px;
+}
+
+button {
+  width: 150px;
+  height: 44px;
+  font-size: 20px;
+  padding: 5px;
+  text-align: center;
+  border: solid teal 1px;
+}
+
+.addtodo {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+h2 {
+  font-size: 50px;
+  color: teal;
+}
+
+.ull {
+  width: 70%;
+  border: solid 1px seagreen;
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.but {
+  width: 90px;
+  height: 25px;
+  font-size: 20px;
+  padding: 5px;
+  text-align: center;
+  border: solid teal 1px;
+}
+
+.check {
+  width: 16px;
+}
